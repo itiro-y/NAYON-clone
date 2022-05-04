@@ -7,12 +7,12 @@ An eye-tracking based human-computer interface aimed at facilitating communicati
 - Implemented with C++, OpenCV 4.0.1 Framework, Python OS interaction, vc15 *.lib and *.dll files
 </p1>
 
-<h3> Final Prototype Sample </h3>
+<h3> Final Prototype Demonstration </h3>
 <p>
 Image processing working with the keyboard layout, and mouse movement with pupil coordinates
 </p>
 
-![Prototype Sample Gif](/Images/nayon.gif)
+![Prototype Demo Vid](/Images/NayonDemo1.mp4)
 
 <h3> Step-by-step image processing </h3>
 <p>
