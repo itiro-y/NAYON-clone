@@ -8,3 +8,4 @@ An eye-tracking based human-computer interface aimed at facilitating communicati
 </p1>
 
 
+![Prototype Sample Gif](nayon.gif)
