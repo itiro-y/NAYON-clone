@@ -5,6 +5,7 @@ An eye-tracking based human-computer interface aimed at facilitating communicati
 <p1>
 
 - Implemented with C++, OpenCV 4.0.1 Framework, Python OS interaction, vc15 *.lib and *.dll files
+- Contributors: Aswin Sai Subramanian, Ayrton Itiro Kobo Yoshii, Bhumika Arora, Joshua Maharaj, and Lisa Hochhausen
 </p1>
 
 <h3> Final Prototype Demonstration </h3>
