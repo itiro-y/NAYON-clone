@@ -8,6 +8,9 @@ An eye-tracking based human-computer interface aimed at facilitating communicati
 </p1>
 
 <h3> Final Prototype Sample </h3>
+<p>
+Image processing working with the keyboard layout, and mouse movement with pupil coordinates
+</p>
 
 ![Prototype Sample Gif](/Images/nayon.gif)
 
