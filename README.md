@@ -12,21 +12,24 @@ An eye-tracking based human-computer interface aimed at facilitating communicati
 ![Prototype Sample Gif](/Images/nayon.gif)
 
 <h3> Step-by-step image processing </h3>
-
-![Detecting Pupils](/Images/detecting_pupils.png)
 <p>
 Detecting Pupil
 </p>
 
-![Image Filtering with Pupils detected](/Images/image_filtering_coord.png)
+![Detecting Pupils](/Images/detecting_pupils.png)
+
 <p> 
 Image Filtering with Pupils detected 
 </p>
 
-![Ajusting Threshold options](/Images/adjusting_thresholds.png)
+![Image Filtering with Pupils detected](/Images/image_filtering_coord.png)
+
 <p> 
 Option to Ajust Thresholds
 </p>
+
+![Ajusting Threshold options](/Images/adjusting_thresholds.png)
+
 
 
 
