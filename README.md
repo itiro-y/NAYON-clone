@@ -1,5 +1,4 @@
-# NAYON-repo
-<h1>Nayon: An Accessible Human Computer Interaction System</h1>
+<h2>Nayon: An Accessible Human Computer Interaction System</h2>
 <p>
 An eye-tracking based human-computer interface aimed at facilitating communication for the motor impaired.
 </p>
