@@ -12,7 +12,7 @@ An eye-tracking based human-computer interface aimed at facilitating communicati
 Image processing working with the keyboard layout, and mouse movement with pupil coordinates
 </p>
 
-![Prototype Demo Vid](/Images/NayonDemo1.mp4)
+![Prototype Demo Gif](/Images/nayon.gif)
 
 <h3> Step-by-step image processing </h3>
 <p>
